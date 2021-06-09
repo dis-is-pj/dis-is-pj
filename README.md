@@ -12,9 +12,9 @@
          width=50" height="40">
       </a>
                               
-<a href="https://www.linkedin.com/in/prashant-jha-10ab3a142/">
-         <img alt="LinkedIn" src="https://lh3.googleusercontent.com/proxy/3PQ2mnNvZ1J6_ezCzMzT96BFk4wnWQiT2QO9Jf8J4JN3NSR3mFO69UBv6IP-xLngiOF0McM_XADTW5i34mw8DFZMYNmLIZ0-5bCnZoxvseA8EDMyYaAG5E_tO6X9JuPT"
-         width=60" height="40">
+<a href="https://prashantjha-jec.medium.com/">
+         <img alt="LinkedIn" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png"
+         width=40" height="40">
       </a>
 
 A few things about me:
